@@ -13,3 +13,46 @@
 13:04:56.702 Successfully installed plugin 'screenshot'.
 13:04:56.880 No specifications found in /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/specs.
 13:05:00.884 Killing runner with PID:52270 forcefully
+14:57:22.285 Plugin java is already installed.
+14:57:22.286 Plugin html-report is already installed.
+14:57:22.477 No specifications found in /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/specs.
+14:57:22.978 Checking updates...
+14:57:26.480 Killing runner with PID:58488 forcefully
+15:03:10.004 Plugin java is already installed.
+15:03:10.005 Plugin html-report is already installed.
+15:03:10.010 [ParseError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:8 Scenario should have atleast one step => ''
+15:03:10.010 [ParseError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:11 Multiple spec headings found in same file => 'Google Knowledege Graph Specification'
+15:03:11.012 Checking updates...
+15:03:15.131 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.uk>" > 
+15:03:15.134 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+15:03:15.136 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show <Jupiter> as result" > 
+15:03:15.136 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+15:03:15.137 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+15:03:15.137 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+15:03:15.195 [ValidationError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:17 Step implementation not found => 'Navigate to "https://www.google.co.uk"'
+15:03:15.195 [ValidationError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:18 Step implementation not found => 'Enter query "query" in the search box and submit'
+15:03:15.195 [ValidationError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:19 Step implementation not found => 'The knowledge graph box should show "Jupiter" as result'
+15:03:15.446 Plugin [Html Report] with pid [58731] has exited
+15:03:15.446 Specifications:	0 executed	0 passed	0 failed	0 skipped
+15:03:15.446 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+15:03:15.447 
+Total time taken: 146ms
+15:06:49.033 Plugin java is already installed.
+15:06:49.033 Plugin html-report is already installed.
+15:06:49.037 [ParseError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:8 Scenario should have atleast one step => ''
+15:06:49.037 [ParseError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:11 Multiple spec headings found in same file => 'Google Knowledege Graph Specification'
+15:06:49.615 Checking updates...
+15:06:58.795 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Navigate to <https://www.google.co.uk>" > 
+15:06:58.796 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+15:06:58.799 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"The knowledge graph box should show <Jupiter> as result" > 
+15:06:58.799 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+15:06:58.800 Api Request Received: messageType:GetStepValueResponse messageId:4 stepValueRequest:<stepText:"Enter query <query> in the search box and submit" > 
+15:06:58.800 Sending API response: messageType:UnsupportedApiMessageResponse messageId:4 unsupportedApiMessageResponse:<> 
+15:06:58.862 [ValidationError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:17 Step implementation not found => 'Navigate to "https://www.google.co.uk"'
+15:06:58.862 [ValidationError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:18 Step implementation not found => 'Enter query "query" in the search box and submit'
+15:06:58.862 [ValidationError] /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/knowledge_graph.spec:19 Step implementation not found => 'The knowledge graph box should show "Jupiter" as result'
+15:06:59.128 Plugin [Html Report] with pid [58908] has exited
+15:06:59.128 Specifications:	0 executed	0 passed	0 failed	0 skipped
+15:06:59.128 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+15:06:59.128 
+Total time taken: 160ms
