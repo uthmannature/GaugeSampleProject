@@ -1,0 +1,15 @@
+13:04:50.859 Plugin java is already installed.
+13:04:50.859 Compatible version of plugin html-report not found. Installing plugin html-report...
+13:04:50.859 Gathering metadata for html-report
+13:04:51.479 Downloading html-report-4.0.5-darwin.x86_64.zip
+13:04:55.434 Installing plugin html-report 4.0.5
+13:04:55.577 Successfully installed plugin 'html-report'.
+13:04:55.577 Installing required plugins.
+13:04:55.577 Installing plugin 'screenshot'
+13:04:55.577 Gathering metadata for screenshot
+13:04:55.746 Checking updates...
+13:04:56.014 Downloading screenshot-0.0.1-darwin.x86_64.zip
+13:04:56.694 Installing plugin screenshot 0.0.1
+13:04:56.702 Successfully installed plugin 'screenshot'.
+13:04:56.880 No specifications found in /Users/yusu03/Practice/dev/workspace/GaugeSampleProject/specs.
+13:05:00.884 Killing runner with PID:52270 forcefully

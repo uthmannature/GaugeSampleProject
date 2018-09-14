@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"/usr/local/bin/gauge",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"/Users/yusu03/Practice/dev/workspace/GaugeSampleProject/specs"
+	]
+}
